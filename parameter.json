@@ -10,15 +10,15 @@
 },
   {
       "ParameterKey" : "KeyName",
-       "ParameterValue": "chef"
+       "ParameterValue": "AWSKEYFILE"
 },
   {
       "ParameterKey" : "SubnetId",
-       "ParameterValue": "subnet-a7ccc8c3"
+       "ParameterValue": "subnet-01cbd865"
 },
   {
       "ParameterKey" : "InstanceSecurityGroup",
-       "ParameterValue": "sg-ee2bad97"
+       "ParameterValue": "sg-c6d4a1bf"
 }
 
 ]
